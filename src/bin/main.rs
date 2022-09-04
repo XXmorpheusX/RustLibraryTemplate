@@ -1,7 +1,7 @@
-use RustLibraryTemplate::LibraryStruct;
+use rust_library_template::LibraryStruct;
 
 fn main() {
     println!("Hello, world!");
 
-    let test_variable = LibraryStruct{ test: false };
+    let _test_variable = LibraryStruct{ test: false };
 }

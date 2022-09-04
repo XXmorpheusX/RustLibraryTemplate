@@ -1,4 +1,7 @@
+pub mod sub_module1;
 
-pub struct test1 {
-    test: bool
+mod tests;
+
+pub struct ModuleStruct {
+    _test: bool
 }
