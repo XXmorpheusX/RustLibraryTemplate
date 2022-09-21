@@ -1,5 +1,5 @@
 # RustLibraryTemplate
-Template to develop a library using the Rust Programming Language
+Template library to develop using the Rust Lang
 
 ## Structure
 ### lib.rs
